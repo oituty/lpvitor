@@ -18,6 +18,9 @@ const config = {
       },
     },
     extend: {
+      backgroundImage: {
+        "teste": "url('/img/bg.jpg')",
+      },
       fontFamily: {
         sans: ['Work Sans', 'sans-serif'],
       },
